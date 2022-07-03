@@ -1,0 +1,11 @@
+{
+    "token": "ODE3MjMxNTI2MzE1MDMyNTgz.YEGgKw.5_6iW3kB6f6RFr1ZACfhRMRP3UA",
+    "owners": ["369855905162067988"],
+    "prefix": "--",
+    
+    "mongoURL": "mongodb+srv://ahmetckxtr:346060ahmet@gamemanager.buwwn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+
+    "channels": {
+        
+    }
+}
